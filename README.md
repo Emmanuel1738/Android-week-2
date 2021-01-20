@@ -2,7 +2,7 @@
 Emmanuel Bett
 ### Project Name
 Wallpapers
-###Description
+### Description
 Wallpapers is an application that allows users to search for wallpapers. 
 
  ### Requirements
