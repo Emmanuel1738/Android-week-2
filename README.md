@@ -1,5 +1,9 @@
 ### Author
 Emmanuel Bett
+### Project Name
+Wallpapers
+###Description
+Wallpapers is an application that allows users to search for wallpapers. 
 
  ### Requirements
  - Android Studio
